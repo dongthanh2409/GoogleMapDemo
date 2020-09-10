@@ -15,7 +15,7 @@ public class DBHelper {
          String ip = "192.168.0.112";
          String port = "1433";
          String Classes = "net.sourceforge.jtds.jdbc.Driver";
-         String database = "FindApartment_App";
+         String database = "FindApartment_DB";
          String username = "abc";
          String password = "123456";
          String url = "jdbc:jtds:sqlserver://"+ip+":"+port+"/"+database;
